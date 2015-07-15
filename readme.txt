@@ -3,7 +3,7 @@ Contributors: rmccue, obenland, tellyworth, azaozz, dd32, beaucollins
 Tags: rest-api, api-console
 Requires at least: 4.2
 Tested up to: 4.4
-Stable tag: 2.0
+Stable tag: 2.0.1
 License: GPLv2 or later
 
 A console for your site's REST API that lives in your WordPress admin.
@@ -25,6 +25,10 @@ Upload to your site, activate, then head on over to your new Tools > REST API Co
 Congratulations!
 
 == Changelog ==
+
+= 2.0.1 =
+
+* Correct versioning issue
 
 = 2.0 =
 
